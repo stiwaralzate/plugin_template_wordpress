@@ -1,1 +1,2 @@
-# plugin_template_wordpress
+# rejiplas_plugin
+Plugin para woocommerce

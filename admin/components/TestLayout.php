@@ -1,0 +1,1 @@
+<h1>Component test layout</h1>
